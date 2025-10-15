@@ -1,0 +1,12 @@
+# Core Computer Vision & Pose Detection
+opencv-python==4.8.1.78
+mediapipe==0.10.8
+
+# Numerical Computing & Data Processing
+numpy==1.24.3
+
+# Python Standard Library (already included, listed for reference)
+# - cv2 (from opencv-python)
+# - time (built-in)
+# - sys (built-in)
+# - os (built-in)
